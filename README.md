@@ -70,12 +70,12 @@ To design and develop an NLP-based text summarization system that can process lo
 
 ### Input Interface
 <p align="center">
-  <img src="images/Text Summarizer UI(1).png" width="600">
+  <img src="images/Text Summarizer UI (1).png" width="600">
 </p>
 
 ### Generated Summary
 <p align="center">
-  <img src="images/Text Summarizer UI(2).png" width="600">
+  <img src="images/Text Summarizer UI (2).png" width="600">
 </p>
 
 ---
