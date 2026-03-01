@@ -114,4 +114,3 @@ To design and develop an NLP-based text summarization system that can process lo
 
 Damini M K  
 Intelligent Language Processing Project  
-I MCA (Generative AI)
